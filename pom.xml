@@ -205,7 +205,7 @@
 	    	<dependency>
 			<groupId>io.seldon.wrapper</groupId>
 			<artifactId>seldon-core-wrapper</artifactId>
-			<version>0.1.1</version>
+			<version>0.1.2</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/junit/junit -->

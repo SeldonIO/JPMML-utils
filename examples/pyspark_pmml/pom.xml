@@ -77,8 +77,8 @@
 		</dependency>
 		<dependency>
 			<groupId>io.seldon.wrapper</groupId>
-			<artifactId>seldon-core-wrapper</artifactId>
-			<version>0.1.1</version>
+			<artifactId>seldon-core-jpmml</artifactId>
+			<version>0.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jpmml</groupId>

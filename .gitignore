@@ -27,4 +27,11 @@ hs_err_pid*
 .classpath
 .project
 .settings/
-		
+examples/pyspark_pmml/.gitignore
+examples/pyspark_pmml/.ipynb_checkpoints/
+examples/pyspark_pmml/data/
+examples/pyspark_pmml/metastore_db/
+examples/pyspark_pmml/mnist_train.csv
+examples/pyspark_pmml/seldon-core/
+examples/pyspark_pmml/src/main/resources/model.pmml
+
