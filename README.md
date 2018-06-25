@@ -1,2 +1,2 @@
 # JPMML-utils
-Helper function to use JPMML with Seldon-Core
+Helper functions to use JPMML with Seldon-Core
